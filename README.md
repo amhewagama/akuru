@@ -3,7 +3,7 @@ cross-platform application designed to help users translate and explore words be
 
 # Sinhala-English Dictionary
 
-![Project Logo](link_to_logo.png)
+![Image1](https://github.com/amhewagama/akuru/blob/main/screen.jpg?raw=true)
 
 ## Overview
 
