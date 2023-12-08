@@ -34,3 +34,5 @@ Jusr run go file or create executable file and run.
 # Example command or code snippet
 $ go run akuru.go
 
+# portable executable
+$go build akuru.go
