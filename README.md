@@ -28,7 +28,7 @@ The Sinhala-English Dictionary is a cross-platform application designed to help 
 
 ## Usage
 
-Jusr run go file or create executable file and run.
+Just run go file or create executable file and run.
 
 ```bash
 # Example command or code snippet
